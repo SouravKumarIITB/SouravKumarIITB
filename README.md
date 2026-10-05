@@ -7,9 +7,9 @@
 
 I am a researcher interested in **Soil Moisture Sensing, Remote Sensing, Precision Agriculture, IoT, Embedded Systems, RF Electronics, Data Science, and Data Analytics**.
 
-## 🔬 Current Research
+🔬 Current Research
 
-### MFMD-TLI Soil Moisture Sensor
+MFMD-TLI Soil Moisture Sensor
 
 **Adaptive Multi-Frequency Multi-Depth Soil-Moisture Sensor with Tunable-Length Interchangeable Electrodes**
 
@@ -26,24 +26,24 @@ My research focuses on:
 - Soil-specific calibration
 - Laboratory and field validation
 
-## 🎓 Education
+ 🎓 Education
 
-**PhD Researcher — IIT Bombay**  
+PhD Researcher — IIT Bombay  
 Centre of Studies in Resources Engineering (CSRE)
 
-**M.Tech — BITS Pilani**
+M.Tech — BITS Pilani**
 
-## 💼 Research Experience
+💼 Research Experience
 
-**Project Fellow — CSIR-Central Electronics Engineering Research Institute (CEERI)**
+Project Fellow — CSIR-Central Electronics Engineering Research Institute (CEERI)**
 
-## 💻 Technical Skills
+💻 Technical Skills
 
 `Python` `SQL` `Excel` `Power BI` `Git` `GitHub`  
 `ESP32` `Arduino` `KiCad` `Remote Sensing` `GIS`  
 `Data Analysis` `Machine Learning` `RF Sensors`
 
-## 🌱 Research Interests
+ Research Interests
 
 - Soil Moisture Sensors
 - Precision Agriculture
@@ -54,12 +54,12 @@ Centre of Studies in Resources Engineering (CSRE)
 - Data Science
 - Machine Learning
 
-## 📊 Currently Learning
+📊 Currently Learning
 
 - Python for Data Science
 - Machine Learning
-- SQL
-- Power BI
+- GIS
+  
 - Git & GitHub
 - Scientific Data Analysis
 
@@ -69,16 +69,16 @@ I am interested in research and projects related to **soil sensing, precision ag
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** Add your LinkedIn profile URL here
-- **Email:** Add your professional email here
-- **GitHub:** https://github.com/SouravKumarIITB
+LinkedIn:[Add your LinkedIn profile URL here](https://www.linkedin.com/in/sourav-kumar-5087b759/?isSelfProfile=true)
+Email: sourav.btti@gmail.com
+GitHub:** https://github.com/SouravKumarIITB
 
 ---
 
 ⭐ Thank you for visiting my GitHub profile!## Hi there 👋
 
 <!--
-**SouravKumarIITB/SouravKumarIITB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SouravKumarIITB/SouravKumarIITB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
